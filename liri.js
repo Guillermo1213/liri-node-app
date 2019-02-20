@@ -21,4 +21,4 @@ if(process.argv[2] === "concert"){
     //spotify-this-song '<song name here>'
     //movie-this '<movie name here>'
     //do-what-it-says
-}
+};
