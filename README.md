@@ -10,5 +10,7 @@ $movie-this <movie name here>
 $do-what-it-says
 
 
+![alt text](https://github.com/Guillermo1213/liri-node-app/blob/master/screenshot.png?raw=true)
+
 ## Contribution
 Currently just a learning project by yours truly, [Guillermo Garcia Jr.](https://guillermo1213.github.io/Bootstrap-Portfolio/),if you have any questions, comments, or concerns you can find my portfolio by clicking on my name. Thanks for taking time to readme! :kissing_heart:
