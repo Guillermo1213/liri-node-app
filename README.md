@@ -1,6 +1,6 @@
 # Liri Node APP
 
-Wanna know some cool information about your favorite song? Wanna know the next time your favorite band will be performing? OR maybe you wanna know some details about a movie your totally in to? What netter way than to do it all from the comfort of your terminal! Now introducing the Liri Node APP! Language Interpriting and Recognition Interface, this little guy can do any of the commands shown below!
+Wanna know some cool information about your favorite song? Wanna know the next time your favorite band will be performing? OR maybe you wanna know some details about a movie your totally in to? What better way than to do it all from the comfort of your terminal! Now introducing the Liri Node APP! Language Interpriting and Recognition Interface, this little guy can do any of the commands shown below!
 
 ## Usage
 Try any of these commands..
